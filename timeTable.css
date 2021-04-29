@@ -1,0 +1,22 @@
+body {
+  background: url("download.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: aliceblue;
+  background-color: rgb(61, 103, 192);
+}
+
+th,
+td {
+  border: 2px solid black;
+  width: 100px;
+}
+
+.tabl {
+  padding: auto;
+  margin: auto;
+  text-transform: uppercase;
+}
